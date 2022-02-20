@@ -1,7 +1,9 @@
 """feat: Created vaccine card
+
 Revision ID: ae2e7ca2b7f0
 Revises: 
 Create Date: 2022-02-10 10:08:34.335592
+
 """
 from alembic import op
 import sqlalchemy as sa
