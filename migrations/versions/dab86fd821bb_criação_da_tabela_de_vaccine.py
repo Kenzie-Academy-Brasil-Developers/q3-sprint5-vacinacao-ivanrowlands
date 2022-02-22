@@ -1,8 +1,8 @@
-"""feat: Created vaccine card
+"""Criação da tabela de vaccine
 
-Revision ID: ae2e7ca2b7f0
+Revision ID: dab86fd821bb
 Revises: 
-Create Date: 2022-02-10 10:08:34.335592
+Create Date: 2022-02-22 10:06:35.479470
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = 'ae2e7ca2b7f0'
+revision = 'dab86fd821bb'
 down_revision = None
 branch_labels = None
 depends_on = None
